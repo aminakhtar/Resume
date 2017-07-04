@@ -6,9 +6,8 @@ As a software developer at WTW, I develop two web applications called PensionPat
 
 Working in the Agile environment as a part of a team of 15 members provides me with this opportunity to use my knowledge as part of a team. I gain valuable experiences by working with Project Managers, Business Analysis, and Actuarial experts.
 
-### Markdown
+### What are PensionPath and Benefit Connect?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
