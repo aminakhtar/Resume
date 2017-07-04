@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to Amin Akhtar's Pages
 
-You can use the [editor on GitHub](https://github.com/aminakhtar/Resume/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+My current role at Willis Towers Watson (WTW):
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+As a software developer at WTW, I develop two web applications called PensionPath and Benefit Connect. These two websites allow our clients calculate and have access to their retirement and health plans. In my current position, I use C#, ASP.NET, C++ and SQL Server to design and develop these new features.
+
+Working in the Agile environment as a part of a team of 15 members provides me with this opportunity to use my knowledge as part of a team. I gain valuable experiences by working with Project Managers, Business Analysis, and Actuarial experts.
 
 ### Markdown
 
