@@ -10,29 +10,107 @@ Working in the Agile environment as a part of a team of 15 members provides me w
 
 
 ```markdown
-Syntax highlighted code block
+Amin Akhtar
+3845 Nobel Dr.	Phone: (571)458-0311
+San Diego, CA 92122	a-akhtar@wiu.edu
+	www.aminakhtar.com
+EDUCATION
 
-# Amin Akhtar
-## Background
-### Header 3
+Master of Science, Western Illinois University, Macomb, IL                 
+Major: Computer Science
+Graduated: December, 2014	                                                                                         GPA: 3.88/4.0
 
-- Bulleted
-- List
+Bachelor of Engineering, Hamadan Azad University, Hamadan, Iran    
+Major: Software Engineering
+Graduated: May, 2008                                                                                     
+GPA: 3.0/4.0
+				   
+Languages
+Bilingual-Farsi and English
 
-1. Numbered
-2. List
+Technical Skills and Achievements
 
-**Bold** and _Italic_ and `Code` text
+ 
+•	Certified Mindseye E-Discovery platform processor.  
+•	Developed a Load File Utility:
+-Loads big files into LFU
+•	Developed a report generator: 
+-Connects to different platforms 
+and generates customized reports
+•	Shazam algorithm project:
+-Improving method through use of hash table for music genre recognition with C++
+•	Database modeling project:
+-Modeling query optimization of Dimensional data model vs. Normalized data model
+•	Designing database with Oracle project:
+-Simulation of Foursquare application
+•	Socket programming with Java project:
+-Simulation Social Network Client/Server
+•	Database software skills:
+-MS SQL Server, Oracle, Access, Sqlite
+•	Programming Language skills:
+-C#, Java, C++, MATLAB, Pascal, Python, ASP.NET (MVC)
+•	Integrated Development Environment skills:
+-MS Visual Studio, Eclipse
+•	Operating Systems skills:
+-Windows Server 2008, Windows Server 
+  2003, Linux
+•	Network Programming skills:
+-Socket programming with Java 
+•	Graphic Software and language skills:
+- Strata, Maya, Open-GL
+•	Office Productivity Application skills:
+-MS Office (Word, Excel, PowerPoint,
+  Access)
 
-[Link](url) and ![Image](src)
+ 
+
+AWARDS AND RECOGNITION
+ 
+
+•	2015 Consultant Rock Star
+•	4th Quarter Recognition Award
+
+WORK EXPERIENCE
+		      
+Software Developer		                   
+-Willis Towers Watson, San Diego CA	                   Jan. 2017-Current
+•	Develop ASP.NET (MVC 5) features for Pension sites.
+•	Update Pension Path and Benefit Connect sites by new retirement formulas.
+•	Find and troubleshoot the bugs in our existing C++, COM+ website.
+•	Customize and override our core libraries for our new clients.
+•	Migrate to newer version of our core libraries by consuming the released packages.
+•	Develop SQL scripts, stored procedures and triggers.
+•	Develop front end with JavaScript as well as backend, C#, and SQL Server 2016.
+•	Use TFS source controller and Visual Studio 2015 for accomplishing the tasks.
+ 
+IT Consultant in an E-discovery group
+-Navigant Consulting, Vienna VA	                   April 2015-Dec. 2016
+•	Develop WPF desktop applications for E-discovery group.
+•	Develop Console Apps for finding patterns in text files.
+•	Develop C# programs for cleaning the raw data.
+•	Design production queue tracker software for the production team.
+•	Work on OCR APIs as well as speech recognition libraries.
+•	Load 3rd party files and produced documents into Relativity/KCURA Software.
+•	Search and tag sets of documents in Lexis EDA/Law Software.
+•	Take over standard processing data with Law Software.		
+
+Graduate Assistantship 
+– Western Illinois University IDT Dept., Macomb IL                                    Aug. 2014-Dec. 2015	           
+•	Updated and maintained IDT webpage.		
+•	Trained staff for IDT webpage use. 	   	
+•	Teacher assistant in IDT pre-seminar course.
+
+Teacher Assistant 
+–Western Illinois University Computer Science Dept., Macomb IL              Jan. 2013-May 2014
+•	Taught and lectured students in Computer Science 101.	
+•	Created lesson plans and exams to give students.
+•	Provided office hours for student inquiries. 
+•	Graded and submitted grades for students.
+
+Technical Support
+ – Zero and One Company, Hamadan, Iran                                                Jan. 2009-March 2010
+•	Trouble shot company software for new clients. 		
+•	Set up computers for new customers.
+•	Designed database system for dental clinic clientele. 
+
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aminakhtar/Resume/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
