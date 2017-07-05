@@ -6,7 +6,7 @@ As a software developer at WTW, I develop two web applications called PensionPat
 
 Working in the Agile environment as a part of a team of 15 members provides me with this opportunity to use my knowledge as part of a team. I gain valuable experiences by working with Project Managers, Business Analysis, and Actuarial experts.
 
-### What are PensionPath and Benefit Connect?
+### Resume:
 
 
 ```markdown
