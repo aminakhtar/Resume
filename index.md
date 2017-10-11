@@ -1,6 +1,6 @@
 ## Welcome to Amin Akhtar's Pages
 
-My current role at Willis Towers Watson (WTW):
+My current role at Willis Towers Watson (WTW)::
 
 As a software developer at WTW, I develop two web applications called PensionPath and Benefit Connect. These two websites allow our clients calculate and have access to their retirement and health plans. In my current position, I use C#, ASP.NET, C++ and SQL Server to design and develop these new features.
 
